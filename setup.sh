@@ -245,7 +245,7 @@ clear
 echo -e " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo -e " \e[1;32mPlease Select a Domain Type Below \e[0m"
 echo -e " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-echo -e " \e[1;32m1)\e[0m Menggunakan Domain Sendiri (Recommended)"
+echo -e " \e[1;32m1)\e[0m own Domain (Recommended)"
 echo -e " \e[1;32m2)\e[0m Menggunakan Domain Random"
 echo -e " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 read -p " Please select numbers 1-2 or Any Button(Random) : " host
