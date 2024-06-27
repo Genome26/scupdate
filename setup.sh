@@ -1,7 +1,7 @@
 #!/bin/bash
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # System Request : Debian 9+/Ubuntu 18.04+/20+
-# Develovers » Darkanon
+# Developer » Darkanon
 # Email      » darkanoncc@gmail.com
 # telegram   » https://t.me/darkanonc
 # whatsapp   » wa.me/+254706378862
@@ -315,8 +315,8 @@ else
 sts="${Error}"
 fi
 TIMES="10"
-CHATID="1187810967"
-KEY="7038894551:AAEGvVTaKGZk4K9Gl23dDciZ3fgZEDuBOWc"
+CHATID="6290765575"
+KEY="7322616473:AAGmaxOosRZF4s_fZkFSnH-YGFqRw_2EIm0"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
     TIMEZONE=$(printf '%(%H:%M:%S)T')
     TEXT="
