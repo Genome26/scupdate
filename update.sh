@@ -1,12 +1,12 @@
 #!/bin/bash
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # System Request : Debian 9+/Ubuntu 18.04+/20+
-# Develovers » Genome26Script
+# Develovers » GhalihxScript
 # Email      » ghalihputra8@gmail.com
 # telegram   » https://t.me/ghxlih
 # whatsapp   » wa.me/+6283834366608
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# Genome26script
+# Ghalihxscript
 
 clear
 fun_bar() {
